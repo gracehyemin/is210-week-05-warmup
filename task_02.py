@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""This is the second random docstring."""
+"""This uses a module in another folder and assigns to var."""
 
 import task_01.peanut
 
